@@ -1,3 +1,4 @@
+// to swap the two numbers in single line
 #include<stdio.h>
 
 int main() {
